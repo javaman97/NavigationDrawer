@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Navigation_Drawer</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="settings">Settings</string>
+    <string name="info">Info</string>
+    <string name="aman_nishad">Aman Nishad</string>
+    <string name="open_drawer">OpenDrawer</string>
+    <string name="close_drawer">CloseDrawer</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+</resources>
